@@ -7,8 +7,6 @@
 <br>🌱 I’m currently learning Data Science 
 
 
-  <img align="right" src="https://github.com/sudhanshu976/sudhanshu976/blob/main/avento.gif" width="250"/>
-
 
 
 ## 🌐 Socials:

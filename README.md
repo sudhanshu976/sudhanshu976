@@ -1,4 +1,4 @@
-<div>
+<div> 
 <img align="center" src="https://github.com/sudhanshu976/sudhanshu976/blob/main/image.png" /> 
 </div>
 <h1>💫 About Me: </h1>

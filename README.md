@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/sudhanshu976/sudhanshu976/blob/main/avento.gif" width="500"/>
+  <img src="https://github.com/sudhanshu976/sudhanshu976/blob/main/avento.gif" width="450"/>
 </div>
 
 # 💫 About Me:

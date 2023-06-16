@@ -1,3 +1,5 @@
+![](![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif))
+
 # 💫 About Me:
 🔭 I have just passed class 12th <br>👯 I will be doing B.Tech Data Science 1st year from September 2023<br>🤝 I’m looking for help with Data Science related projects<br>🌱 I’m currently learning Data Science 
 

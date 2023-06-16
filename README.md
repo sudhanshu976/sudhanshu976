@@ -5,8 +5,6 @@
 🔭 I have just passed class 12th <br>👯 I will be doing B.Tech Data Science 1st year from September 2023<br>🤝 I’m looking for help with Data Science related projects<br>🌱 I’m currently learning Data Science 
 
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_._00) 
 
@@ -22,7 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sudhanshu976&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudhanshu976&icon=0&color=0)](https://visitcount.itsvg.in)

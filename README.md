@@ -1,10 +1,7 @@
 ![](https://github.com/sudhanshu976/sudhanshu976/blob/main/image.png)
 
 # 💫 About Me:
-🔭 I have just passed class 12th <br>👯 I will be doing B.Tech Data Science 1st year from September 2023<br>🤝 I’m looking for help with Data Science related projects
-
-
-<br>🌱 I’m currently learning Data Science 
+🔭 I have just passed class 12th <br>👯 I will be doing B.Tech Data Science 1st year from September 2023<br>🤝 I’m looking for help with Data Science related projects<br>🌱 I’m currently learning Data Science 
 
 
 

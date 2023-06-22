@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/sudhanshu976/sudhanshu976/blob/main/imageh.png" />
 
-<h2 align="left">Hi 👋! My name is Sudhanshu and I'm a Uttarakhand from India</h2>
+<h2 align="left">Hi 👋! My name is Sudhanshu and I' m a Data Analyst from Uttarakhand</h2>
 
 ###
 

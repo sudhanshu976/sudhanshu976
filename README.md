@@ -1,6 +1,6 @@
 
 
-<img align="center" src="" />
+
 
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">Aspiring Data Scientist | 18-Year-Old Data Enthusiast | 1 Year of Hands-On Experience | Passionate about Solving Real-World Problems</h3>

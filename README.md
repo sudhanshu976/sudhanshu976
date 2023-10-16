@@ -1,4 +1,4 @@
-<img align="center" src="profile-pic.png" />
+<img align="center" src="pic.png" />
 
 
 

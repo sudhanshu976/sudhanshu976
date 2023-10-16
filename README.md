@@ -2,90 +2,44 @@
 
 <img align="center" src="https://github.com/sudhanshu976/sudhanshu976/blob/main/imageh.png" />
 
-<h2 align="left">Hi 👋! My name is Sudhanshu and I'm a Data Scientist from  Uttarakhand,India</h2>
+<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
+<h3 align="center">Aspiring Data Scientist | 18-Year-Old Data Enthusiast | 1 Year of Hands-On Experience | Passionate about Solving Real-World Problems</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu976&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu976" /> </p>
 
-<h1 align="left">Skills</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu976" alt="sudhanshu976" /></a> </p>
 
-###
+- 🔭 I’m currently working on [Computer Vision](https://cvappbysudhanshu.streamlit.app/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-</div>
+- 🌱 I’m currently learning **Computer Vision**
 
-###
+- 👯 I’m looking to collaborate on **CV Projects**
 
-<h3 align="left">0.  Statistics<br>1. Python <br>2. Pandas , Numpy , Matplotlib ,Seaborn<br>3. Power Bi Visualization<br>4. Machine Learning Sklearn<br>5 .Deep Learning (Tensorflow and Keras)<br>6. Natural Language Processing (NLP)<br>7. Computer Vision (CV)<br>8. MYSQL<br>9. Flask<br>10 . Cloud Services (Heroku)</h3>
+- 👨‍💻 All of my projects are available at [https://cvappbysudhanshu.streamlit.app/](https://cvappbysudhanshu.streamlit.app/)
 
-###
+- 💬 Ask me about **ML , DL , NLP and CV**
 
-<h1 align="left">STATS</h1>
+- 📫 How to reach me **gusainsudhanshu43@gmail.com**
 
-###
+- 📄 Know about my experiences [https://cvappbysudhanshu.streamlit.app/RESUME](https://cvappbysudhanshu.streamlit.app/RESUME)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu976&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sudhanshu976&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu976&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- ⚡ Fun fact **I think I progress daily 🙎**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sudhanshu-gusain976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-gusain976" height="30" width="40" /></a>
+<a href="https://kaggle.com/sudhanshugusain97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sudhanshugusain97" height="30" width="40" /></a>
+<a href="https://instagram.com/sudhanshu_._00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanshu_._00" height="30" width="40" /></a>
+</p>
 
-<h1 align="left">SOCIAL MEDIA</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu976&show_icons=true&locale=en&layout=compact" alt="sudhanshu976" /></p>
 
-<div align="left">
-  <a href="https://www.instagram.com/sudhanshu.00_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gusainsudhanshu43@gmail.con" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu976&show_icons=true&locale=en" alt="sudhanshu976" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu976&" alt="sudhanshu976" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sudhanshu976/sudhanshu976/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 

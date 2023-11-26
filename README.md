@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **CV Projects**
 
-- 👨‍💻 All of my projects are available at [https://cvappbysudhanshu.streamlit.app/](https://cvappbysudhanshu.streamlit.app/)
+- 👨‍💻 All of my projects are available at [https://cvappbysudhanshu.streamlit.app/](https://personalsudhanshu.streamlit.app/)
 
 - 💬 Ask me about **ML , DL , NLP and CV**
 
 - 📫 How to reach me **gusainsudhanshu43@gmail.com**
 
-- 📄 Know about my experiences [https://cvappbysudhanshu.streamlit.app/RESUME](https://cvappbysudhanshu.streamlit.app/RESUME)
+- 📄 Know about my experiences [https://personalsudhanshu.streamlit.app/RESUME](https://personalsudhanshu.streamlit.app/RESUME)
 
 - ⚡ Fun fact **I think I progress daily 🙎**
 

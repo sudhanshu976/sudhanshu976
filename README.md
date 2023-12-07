@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
-<h3 align="center">Aspiring Data Scientist | 18-Year-Old Data Enthusiast | 1 Year of Hands-On Experience | Passionate about Solving Real-World Problems</h3>
+<h3 align="center">Aspiring Data Scientist and CV Engineer | PYTHON | SQL | MACHINE LEARNING | DEEP LEARNING | OPENCV | COMPUTER VISION</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu976&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu976" /> </p>
 

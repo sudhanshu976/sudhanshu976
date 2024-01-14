@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu976&theme=dark_lover" alt="sudhanshu976" /></a> </p>
 
+- 🔭 PORTFOLIO WEBSITE [(Click Here)](https://portfolio-sudhanshu00.000webhostapp.com/)
+- 🔭 PROJECTS WEBSITE [(Click Here)](https://personalsudhanshu.streamlit.app/MY_PROJECTS)
 - 🔭 LINKEDIN PROFILE [( 1.5k+ followers and 500+ connections )](https://www.linkedin.com/in/sudhanshu-gusain976/)
-- 🌱 I’m currently learning **Generative AI **
+  - 
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **gusainsudhanshu43@gmail.com**
-- ⚡ Fun fact **" Machine Learning is not only about making Models " **
+- ⚡ Fun fact **" Machine Learning is not only about making Models "**
 
 <div> <a href="https://www.linkedin.com/in/sudhanshu-gusain976" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sudhanshu976" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

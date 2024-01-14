@@ -10,10 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu976" alt="sudhanshu976" /></a> </p>
 
 
-- 🔭 [Portfolio Website ](https://personalsudhanshu.streamlit.app)
-- 🔭 [Blog Website ](https://sudhanshu976.github.io)
-- 🔭 [NLP Website ](https://nlpappbysudhanshu.streamlit.app/)
-- 🔭 [Computer Vision Website ](https://cvappbysudhanshu.streamlit.app/)
+- 🔭 [Portfolio Website ](https://portfolio-sudhanshu00.000webhostapp.com/)
+- 🔭 [Projects Website ](https://personalsudhanshu.streamlit.app/MY_PROJECTS)
 
 - 🌱 I’m currently learning **Computer Vision**
 

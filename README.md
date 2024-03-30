@@ -7,7 +7,7 @@
 
 - 🔭 PORTFOLIO WEBSITE [(Click Here)](https://portfolio-sudhanshu00.000webhostapp.com/)
 - 🔭 PROJECTS WEBSITE [(Click Here)](https://personalsudhanshu.streamlit.app/MY_PROJECTS)
-- 🔭 LINKEDIN PROFILE [( 3.5k+ followers and 500+ connections )](https://www.linkedin.com/in/sudhanshu-gusain976/)
+- 🔭 LINKEDIN PROFILE [( 3.5k+ followers and 2000+ connections )](https://www.linkedin.com/in/sudhanshu-gusain976/)
   - 
 - 🌱 I’m currently learning **Generative AI**
 
